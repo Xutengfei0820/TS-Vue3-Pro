@@ -1,0 +1,20 @@
+{
+  "name": "TS-Vue3-Pro",
+  "version": "1.0.0",
+  "description": "The first TS and Vue3 project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xutengfei0820/TS-Vue3-Pro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xutengfei0820/TS-Vue3-Pro/issues"
+  },
+  "homepage": "https://github.com/Xutengfei0820/TS-Vue3-Pro#readme"
+}
