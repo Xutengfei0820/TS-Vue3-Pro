@@ -11,7 +11,8 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import ColumnList, { ColumnProps } from './components/ColumnList.vue'
 import GlobalHeader, { UserProps } from './components/GolbalHeader.vue'
 const currentUser: UserProps = {
-  isLogin: false
+  isLogin: true,
+  name: 'xu'
 }
 const testData: ColumnProps[] = [
   {
